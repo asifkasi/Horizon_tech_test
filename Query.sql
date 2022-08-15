@@ -1,0 +1,1 @@
+select Patient_ID, Patient_Name, Patient_Gender, Patient_Phone, Province, Created_at from test.Patient_Info
